@@ -114,4 +114,7 @@ PHPが動いているかを確認してみましょう。
 4. 仮想OSをvagrantコマンドで起動して下さい。
     - VirtualBoxはどのように変わりましたか？
 5. 仮想OSにvagrantコマンドでログインして下さい。
+    - putty を使ってログインしてみましょう。
+        - ID: vagrant
+        - PASS: vagrant
     - ログイン後、Windows上の simple-apache ディレクトリにファイルを作成し、 /var/www/html ディレクトリがどのように変化するか確認して下さい。
