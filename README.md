@@ -53,7 +53,7 @@ vagrantコマンドを使えば、PHP学習のための仮想OS環境の構築�
 **01.setup/simple-apache** ディレクトリまで移動し、PHP学習のための仮想OSを起動してみましょう。
 
 ```bat
-cd C:\php-bootcamp\01.setup/simple-apache
+cd c:\php-bootcamp-master\01.setup\simple-apache
 vagrant up
 ```
 
